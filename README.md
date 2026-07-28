@@ -60,7 +60,7 @@ Install Multi-Tool
 bash
 
 # Clone the repository
-git clone https://github.com/yourusername/multi-tool.git
+git clone https://github.com/pareth5612-dev/multi-tool.git
 cd multi-tool
 
 # Install Python dependencies
